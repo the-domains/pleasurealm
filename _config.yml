@@ -1,5 +1,30 @@
-title: 'Pleasurealm website '
-purpose: []
+typography_spectrum: 0.07581454
+color:
+  saturation: 0.5175439
+  brandStrength: 0.4035088
+  lightness: 0.5275689
+  brandColors:
+    - '#20D6F6'
+    - '#FDFDFD'
+    - '#8F8F8F'
+    - '#010101'
+    - '#404040'
+  rhythmicContrast: 0.9022557
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6209273
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: pleasurealm
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5175439
-  brandStrength: 0.4035088
-  lightness: 0.5275689
-  brandColors:
-    - '#20D6F6'
-    - '#FDFDFD'
-    - '#8F8F8F'
-    - '#010101'
-    - '#404040'
-  rhythmicContrast: 0.9022557
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: pleasurealm
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.07581454
-layout_spectrum: 0.6209273
+title: WE ARE PLEASUREALM
+purpose: []
